@@ -1,0 +1,488 @@
+[
+  {
+    "image": "https://play-lh.googleusercontent.com/fbhEi1-2AwEdR9J5qHfUT1q1SvbxpvDAukYoBUa4m8OHDr2UQr317Bhp_5sTZDdesYtY",
+    "title": "Nova Launcher",
+    "companyName": "TeslaCoil Apps",
+    "id": 1,
+    "description": "A powerful, customizable, and versatile home screen replacement. Nova brings advanced features to enhance your home screens.",
+    "size": 25,
+    "reviews": 1450320,
+    "ratingAvg": 4.5,
+    "downloads": 50,
+    "ratings": [
+      { "name": "1 star", "count": 50110 },
+      { "name": "2 star", "count": 28990 },
+      { "name": "3 star", "count": 87050 },
+      { "name": "4 star", "count": 250120 },
+      { "name": "5 star", "count": 1034050 }
+    ]
+  },
+  {
+    "image": "https://external-preview.redd.it/lyD7Q9wsZmZUubOib3Wa16mTdLWLlnALeXo-T6SJEa0.jpg?auto=webp&s=d3bc1c1c70af1fb90ffde459badea18658b5eabc",
+    "title": "Sync Pro for Reddit",
+    "companyName": "Relay for Reddit",
+    "id": 2,
+    "description": "Sync for Reddit (previously Reddit Sync) is a full-featured app for browsing the popular site Reddit on the go.",
+    "size": 89,
+    "reviews": 85230,
+    "ratingAvg": 4.8,
+    "downloads": 1,
+    "ratings": [
+      { "name": "1 star", "count": 1200 },
+      { "name": "2 star", "count": 850 },
+      { "name": "3 star", "count": 2100 },
+      { "name": "4 star", "count": 15800 },
+      { "name": "5 star", "count": 65280 }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Pocket_Casts_icon.svg/2048px-Pocket_Casts_icon.svg.png",
+    "title": "Pocket Casts",
+    "companyName": "Automattic",
+    "id": 3,
+    "description": "The world's most powerful podcast platform, an app by listeners, for listeners. Find your next obsession with our hand-curated podcast recommendations.",
+    "size": 45,
+    "reviews": 180400,
+    "ratingAvg": 4.1,
+    "downloads": 5,
+    "ratings": [
+      { "name": "1 star", "count": 15000 },
+      { "name": "2 star", "count": 7800 },
+      { "name": "3 star", "count": 19600 },
+      { "name": "4 star", "count": 38000 },
+      { "name": "5 star", "count": 100000 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/_sX2KdkFOwzvT3J8dmcLcYAa6mDQG6OBweFxFN6mwwpIY0SMjuEbo6wsjfUhjN0DSA",
+    "title": "Solid Explorer",
+    "companyName": "NeatBytes",
+    "id": 4,
+    "description": "Solid Explorer is a file management app inspired by the old school file commander applications. It will help you easily manage files in dual pane layout.",
+    "size": 32,
+    "reviews": 215600,
+    "ratingAvg": 4.4,
+    "downloads": 5,
+    "ratings": [
+      { "name": "1 star", "count": 11000 },
+      { "name": "2 star", "count": 5600 },
+      { "name": "3 star", "count": 16000 },
+      { "name": "4 star", "count": 48000 },
+      { "name": "5 star", "count": 135000 }
+    ]
+  },
+  {
+    "image": "https://e7.pngegg.com/pngimages/5/268/png-clipart-tasker-android-google-play-xda-developers-angle-triangle-thumbnail.png",
+    "title": "Tasker",
+    "companyName": "joaomgcd",
+    "id": 5,
+    "description": "Total Automation, From Settings to SMS. Trigger actions based on the app you're in, the time of day, your location, your Wi-Fi network, and much more.",
+    "size": 18,
+    "reviews": 75900,
+    "ratingAvg": 4.6,
+    "downloads": 1,
+    "ratings": [
+      { "name": "1 star", "count": 2100 },
+      { "name": "2 star", "count": 1500 },
+      { "name": "3 star", "count": 3300 },
+      { "name": "4 star", "count": 14000 },
+      { "name": "5 star", "count": 55000 }
+    ]
+  },
+  {
+    "image": "https://static.vecteezy.com/system/resources/thumbnails/008/854/797/small_2x/sunny-and-rainy-cloudy-day-weather-forecast-icon-meteorological-sign-3d-render-png.png",
+    "title": "Weather Timeline",
+    "companyName": "Sam Ruston",
+    "id": 6,
+    "description": "A simple, elegant weather app that focuses on summarizing the next hour, the next 48 hours and the next week.",
+    "size": 55,
+    "reviews": 92300,
+    "ratingAvg": 4.7,
+    "downloads": 1,
+    "ratings": [
+      { "name": "1 star", "count": 1800 },
+      { "name": "2 star", "count": 900 },
+      { "name": "3 star", "count": 2600 },
+      { "name": "4 star", "count": 17000 },
+      { "name": "5 star", "count": 70000 }
+    ]
+  },
+  {
+    "image": "https://cdn-icons-png.flaticon.com/512/2965/2965358.png",
+    "title": "Google Keep",
+    "companyName": "Google LLC",
+    "id": 7,
+    "description": "Quickly capture what's on your mind and get a reminder later at the right place or time. Speak a voice memo on the go and have it automatically transcribed.",
+    "size": 22,
+    "reviews": 2500000,
+    "ratingAvg": 4.3,
+    "downloads": 1000,
+    "ratings": [
+      { "name": "1 star", "count": 150000 },
+      { "name": "2 star", "count": 75000 },
+      { "name": "3 star", "count": 225000 },
+      { "name": "4 star", "count": 550000 },
+      { "name": "5 star", "count": 1500000 }
+    ]
+  },
+  {
+    "image": "https://static.vecteezy.com/system/resources/previews/048/759/334/non_2x/canva-transparent-icon-free-png.png",
+    "title": "Canva",
+    "companyName": "Canva",
+    "id": 8,
+    "description": "Canva makes design and video editing incredibly simple (and fun)! Create stunning logo & poster designs with your photos and videos—even if you’re not a design expert!",
+    "size": 28,
+    "reviews": 11200000,
+    "ratingAvg": 4.7,
+    "downloads": 100,
+    "ratings": [
+      { "name": "1 star", "count": 250000 },
+      { "name": "2 star", "count": 150000 },
+      { "name": "3 star", "count": 400000 },
+      { "name": "4 star", "count": 1400000 },
+      { "name": "5 star", "count": 9000000 }
+    ]
+  },
+  {
+    "image": "https://seeklogo.com/images/S/strava-logo-C4A1127B31-seeklogo.com.png",
+    "title": "Strava",
+    "companyName": "Strava Inc.",
+    "id": 9,
+    "description": "Track your fitness activity with Strava. Record your run, map a cycling route & analyze your training with all the stats – for free!",
+    "size": 95,
+    "reviews": 2100000,
+    "ratingAvg": 4.4,
+    "downloads": 50,
+    "ratings": [
+      { "name": "1 star", "count": 110000 },
+      { "name": "2 star", "count": 60000 },
+      { "name": "3 star", "count": 180000 },
+      { "name": "4 star", "count": 450000 },
+      { "name": "5 star", "count": 1300000 }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Bitwarden_Logo.svg/512px-Bitwarden_Logo.svg.png",
+    "title": "Bitwarden",
+    "companyName": "Bitwarden Inc.",
+    "id": 10,
+    "description": "The easiest and safest way to store all of your logins and passwords while conveniently keeping them synced between all of your devices.",
+    "size": 65,
+    "reviews": 140000,
+    "ratingAvg": 4.7,
+    "downloads": 10,
+    "ratings": [
+      { "name": "1 star", "count": 3000 },
+      { "name": "2 star", "count": 1500 },
+      { "name": "3 star", "count": 4500 },
+      { "name": "4 star", "count": 21000 },
+      { "name": "5 star", "count": 110000 }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Signal-Logo.svg/512px-Signal-Logo.svg.png",
+    "title": "Signal",
+    "companyName": "Signal Foundation",
+    "id": 11,
+    "description": "Millions of people use Signal every day for free and instantaneous communication anywhere in the world. Send and receive high-fidelity messages.",
+    "size": 75,
+    "reviews": 1600000,
+    "ratingAvg": 4.5,
+    "downloads": 100,
+    "ratings": [
+      { "name": "1 star", "count": 70000 },
+      { "name": "2 star", "count": 40000 },
+      { "name": "3 star", "count": 90000 },
+      { "name": "4 star", "count": 300000 },
+      { "name": "5 star", "count": 1100000 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/s6nDAWRqg4MODunxOdJ1H-A0a-s-x-b-l-s-1z-2-4y-7-8j-6_c-3-5s-9-0",
+    "title": "InShot",
+    "companyName": "InShot Inc.",
+    "id": 12,
+    "description": "InShot - Powerful all-in-one Video Editor and Video Maker with professional features. Add music, transition effects, text, emoji and filters, blur background and etc!",
+    "size": 120,
+    "reviews": 15000000,
+    "ratingAvg": 4.8,
+    "downloads": 500,
+    "ratings": [
+      { "name": "1 star", "count": 180000 },
+      { "name": "2 star", "count": 120000 },
+      { "name": "3 star", "count": 300000 },
+      { "name": "4 star", "count": 1400000 },
+      { "name": "5 star", "count": 13000000 }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Duolingo_logo.svg/600px-Duolingo_logo.svg.png",
+    "title": "Duolingo",
+    "companyName": "Duolingo",
+    "id": 13,
+    "description": "Learn a new language with the world’s most-downloaded education app! Duolingo is the fun, free app for learning 35+ languages through quick, bite-sized lessons.",
+    "size": 58,
+    "reviews": 16200000,
+    "ratingAvg": 4.7,
+    "downloads": 500,
+    "ratings": [
+      { "name": "1 star", "count": 400000 },
+      { "name": "2 star", "count": 200000 },
+      { "name": "3 star", "count": 600000 },
+      { "name": "4 star", "count": 2000000 },
+      { "name": "5 star", "count": 13000000 }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Notion-logo.svg/512px-Notion-logo.svg.png",
+    "title": "Notion",
+    "companyName": "Notion Labs, Inc.",
+    "id": 14,
+    "description": "Write, plan, and get organized. Notion is the all-in-one workspace for your notes, tasks, wikis, and databases.",
+    "size": 35,
+    "reviews": 245000,
+    "ratingAvg": 3.8,
+    "downloads": 10,
+    "ratings": [
+      { "name": "1 star", "count": 30000 },
+      { "name": "2 star", "count": 15000 },
+      { "name": "3 star", "count": 35000 },
+      { "name": "4 star", "count": 65000 },
+      { "name": "5 star", "count": 100000 }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/VLC_Icon.svg/512px-VLC_Icon.svg.png",
+    "title": "VLC for Android",
+    "companyName": "Videolabs",
+    "id": 15,
+    "description": "VLC media player is a free and open source cross-platform multimedia player that plays most multimedia files as well as discs, devices, and network streaming protocols.",
+    "size": 40,
+    "reviews": 1800000,
+    "ratingAvg": 4.3,
+    "downloads": 100,
+    "ratings": [
+      { "name": "1 star", "count": 110000 },
+      { "name": "2 star", "count": 60000 },
+      { "name": "3 star", "count": 130000 },
+      { "name": "4 star", "count": 300000 },
+      { "name": "5 star", "count": 1200000 }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Shazam_icon.svg/512px-Shazam_icon.svg.png",
+    "title": "Shazam",
+    "companyName": "Apple Inc.",
+    "id": 16,
+    "description": "Shazam will identify any song in seconds. Discover, artists, lyrics, videos & playlists, all for free. Over 1 billion installs and counting.",
+    "size": 15,
+    "reviews": 7500000,
+    "ratingAvg": 4.8,
+    "downloads": 500,
+    "ratings": [
+      { "name": "1 star", "count": 80000 },
+      { "name": "2 star", "count": 70000 },
+      { "name": "3 star", "count": 150000 },
+      { "name": "4 star", "count": 700000 },
+      { "name": "5 star", "count": 6500000 }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Picsart_Logo.svg/512px-Picsart_Logo.svg.png",
+    "title": "Picsart",
+    "companyName": "PicsArt, Inc.",
+    "id": 17,
+    "description": "Picsart is the best all-in-one photo and video editor on mobile! Unleash your creativity with one of the most popular apps with over 1 billion downloads to date.",
+    "size": 88,
+    "reviews": 12000000,
+    "ratingAvg": 4.2,
+    "downloads": 500,
+    "ratings": [
+      { "name": "1 star", "count": 900000 },
+      { "name": "2 star", "count": 400000 },
+      { "name": "3 star", "count": 800000 },
+      { "name": "4 star", "count": 1900000 },
+      { "name": "5 star", "count": 8000000 }
+    ]
+  },
+  {
+    "image": "https://logowik.com/content/uploads/images/zenly-app4921.jpg",
+    "title": "Zenly",
+    "companyName": "Zenly",
+    "id": 18,
+    "description": "Zenly is the social app that maps your world :) build your very own map of the world, with the people and places that make it uniquely yours!",
+    "size": 77,
+    "reviews": 3400000,
+    "ratingAvg": 4.6,
+    "downloads": 100,
+    "ratings": [
+      { "name": "1 star", "count": 150000 },
+      { "name": "2 star", "count": 80000 },
+      { "name": "3 star", "count": 220000 },
+      { "name": "4 star", "count": 550000 },
+      { "name": "5 star", "count": 2400000 }
+    ]
+  },
+  {
+    "image": "https://cdn-assets.alltrails.com/assets/apple-touch-icon-180x180-1-1692131229.png",
+    "title": "AllTrails",
+    "companyName": "AllTrails, LLC",
+    "id": 19,
+    "description": "Explore the outdoors with AllTrails! Discover nature with hiking, biking, backpacking and running trails around the world. Log your hike, walk, run or mountain bike ride.",
+    "size": 110,
+    "reviews": 320000,
+    "ratingAvg": 4.8,
+    "downloads": 10,
+    "ratings": [
+      { "name": "1 star", "count": 4000 },
+      { "name": "2 star", "count": 2000 },
+      { "name": "3 star", "count": 6000 },
+      { "name": "4 star", "count": 28000 },
+      { "name": "5 star", "count": 280000 }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Musixmatch_logo.svg/512px-Musixmatch_logo.svg.png",
+    "title": "Musixmatch",
+    "companyName": "Musixmatch",
+    "id": 20,
+    "description": "Musixmatch is the world’s largest collection of song lyrics used by millions of people to get instant time synced lyrics for Youtube, Spotify, Pandora and more.",
+    "size": 63,
+    "reviews": 2200000,
+    "ratingAvg": 4.4,
+    "downloads": 50,
+    "ratings": [
+      { "name": "1 star", "count": 130000 },
+      { "name": "2 star", "count": 70000 },
+      { "name": "3 star", "count": 150000 },
+      { "name": "4 star", "count": 350000 },
+      { "name": "5 star", "count": 1500000 }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Zomato_logo.png/512px-Zomato_logo.png",
+    "title": "Zomato",
+    "companyName": "Zomato",
+    "id": 21,
+    "description": "Whether you're looking for biryani to feed your desi cravings, soul comforting pizzas and burgers, or even a salad with a cup of chai or coffee, Zomato is the only app you need.",
+    "size": 42,
+    "reviews": 4500000,
+    "ratingAvg": 4.1,
+    "downloads": 100,
+    "ratings": [
+      { "name": "1 star", "count": 400000 },
+      { "name": "2 star", "count": 200000 },
+      { "name": "3 star", "count": 400000 },
+      { "name": "4 star", "count": 800000 },
+      { "name": "5 star", "count": 2700000 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/6Xy15s_YlKwnx6n-G-7-T-d-c-s-3a-2s-1b-5-8g-7-9-6-y-4-3-1z-2",
+    "title": "Sleep Cycle",
+    "companyName": "Sleep Cycle AB",
+    "id": 22,
+    "description": "Relax, sleep better and wake up feeling rested with Sleep Cycle, the smart alarm clock. Track sleep from bedtime to morning, and get detailed analysis.",
+    "size": 98,
+    "reviews": 550000,
+    "ratingAvg": 4.5,
+    "downloads": 10,
+    "ratings": [
+      { "name": "1 star", "count": 25000 },
+      { "name": "2 star", "count": 15000 },
+      { "name": "3 star", "count": 40000 },
+      { "name": "4 star", "count": 110000 },
+      { "name": "5 star", "count": 360000 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/yFIIiY9gO95yL04t-i_TJCk8V3RDUJqfDb-E-3k-C-s-l-1z-3r-5-8t-2-4g",
+    "title": "Moon+ Reader",
+    "companyName": "Moon+",
+    "id": 23,
+    "description": "Better designed book reader with powerful controls & full functions, supports epub, pdf, mobi, chm, cbr, cbz, umd, fb2, txt, html, rar, zip or OPDS formats.",
+    "size": 29,
+    "reviews": 430000,
+    "ratingAvg": 4.6,
+    "downloads": 10,
+    "ratings": [
+      { "name": "1 star", "count": 12000 },
+      { "name": "2 star", "count": 8000 },
+      { "name": "3 star", "count": 20000 },
+      { "name": "4 star", "count": 80000 },
+      { "name": "5 star", "count": 310000 }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/8/87/Calm_logo.png/440px-Calm_logo.png",
+    "title": "Calm",
+    "companyName": "Calm.com, Inc.",
+    "id": 24,
+    "description": "Calm is the #1 app for sleep and meditation. Discover a happier, healthier you through our meditations, Sleep Stories, music, and more.",
+    "size": 85,
+    "reviews": 1100000,
+    "ratingAvg": 4.3,
+    "downloads": 50,
+    "ratings": [
+      { "name": "1 star", "count": 70000 },
+      { "name": "2 star", "count": 40000 },
+      { "name": "3 star", "count": 90000 },
+      { "name": "4 star", "count": 200000 },
+      { "name": "5 star", "count": 700000 }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/1Password_Icon.svg/512px-1Password_Icon.svg.png",
+    "title": "1Password",
+    "companyName": "AgileBits",
+    "id": 25,
+    "description": "1Password remembers all your passwords for you, and keeps them safe and secure behind the one password that only you know.",
+    "size": 105,
+    "reviews": 95000,
+    "ratingAvg": 3.9,
+    "downloads": 5,
+    "ratings": [
+      { "name": "1 star", "count": 11000 },
+      { "name": "2 star", "count": 5000 },
+      { "name": "3 star", "count": 12000 },
+      { "name": "4 star", "count": 22000 },
+      { "name": "5 star", "count": 45000 }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Trello-logo-blue.svg/512px-Trello-logo-blue.svg.png",
+    "title": "Trello",
+    "companyName": "Atlassian",
+    "id": 26,
+    "description": "Trello is a visual tool that empowers your team to manage any type of project, workflow, or task tracking. Add files, checklists, or even automation.",
+    "size": 20,
+    "reviews": 150000,
+    "ratingAvg": 4.5,
+    "downloads": 10,
+    "ratings": [
+      { "name": "1 star", "count": 6000 },
+      { "name": "2 star", "count": 3000 },
+      { "name": "3 star", "count": 9000 },
+      { "name": "4 star", "count": 32000 },
+      { "name": "5 star", "count": 100000 }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Snapseed_icon_2020.svg/512px-Snapseed_icon_2020.svg.png",
+    "title": "Snapseed",
+    "companyName": "Google LLC",
+    "id": 27,
+    "description": "Snapseed is a complete and professional photo editor developed by Google. 29 Tools and Filters, including Healing, Brush, Structure, HDR, Perspective.",
+    "size": 33,
+    "reviews": 1900000,
+    "ratingAvg": 4.4,
+    "downloads": 100,
+    "ratings": [
+      { "name": "1 star", "count": 90000 },
+      { "name": "2 star", "count": 50000 },
+      { "name": "3 star", "count": 130000 },
+      { "name": "4 star", "count": 330000 },
+      { "name": "5 star", "count": 1300000 }
+    ]
+  }
+]

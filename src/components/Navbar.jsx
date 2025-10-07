@@ -5,7 +5,7 @@ export default function Navbar() {
   return (
     <>
       <header>
-        <nav className="flex justify-between items-center">
+        <nav className="flex justify-between items-center text-black">
           <Link to="/" className="flex items-center ">
             <figure>
               <img src="/logo.png" alt="logo" className="h-10" />

@@ -1,7 +1,11 @@
+import Hero from "../components/Hero";
+import TrendingApps from "../components/TrendingApps";
+
 export default function Home() {
   return (
     <>
-      <div>Hello iam home</div>
+      <Hero />
+      <TrendingApps />
     </>
   );
 }
