@@ -1,10 +1,9 @@
-export default function AppsCard({ app }) {
-  console.log(app);
+export default function AllAppsCard({ app }) {
   return (
     <>
-      <div className="p-4 bg-gray-100">
-        <figure>
-          <img className="h-40" src={app.image} alt="" />
+      <div className="p-4 bg-gray-100 ">
+        <figure className="flex items-center flex-col">
+          <img className="h-40" src={app.image} alt={app.title} />
         </figure>
         <div>
           <h2>{app.title}</h2>

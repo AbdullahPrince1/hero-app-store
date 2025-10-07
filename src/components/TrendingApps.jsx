@@ -1,5 +1,5 @@
 import { useData } from "../hooks/useData";
-import AppsCard from "./AppsCard";
+import TrendingAppsCard from "./TrendingAppsCard";
 
 export default function TrendingApps() {
   const { appData } = useData();
@@ -20,10 +20,15 @@ export default function TrendingApps() {
         </div>
         <div className="grid grid-cols-4 gap-6">
           {trendingApps.map((app) => (
-            <AppsCard key={app.id} app={app} />
+            <TrendingAppsCard key={app.id} app={app} />
           ))}
-              </div>
-              <button className="text-center px-4 py-2 bg-blue-300 rounded font-semibold my-10" type="button">See more</button>
+        </div>
+        <button
+          className="text-center px-4 py-2 bg-blue-300 rounded font-semibold my-10"
+          type="button"
+        >
+          See more
+        </button>
       </div>
     </>
   );
