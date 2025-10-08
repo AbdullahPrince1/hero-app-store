@@ -2,10 +2,25 @@ import { useParams } from "react-router";
 import { useData } from "../hooks/useData";
 import { Bar, BarChart, XAxis, YAxis } from "recharts";
 import { ToastContainer, toast } from "react-toastify";
-import { useState } from "react";
+import { useEffect, useState } from "react";
+
+const getDataFromLs = () => {
+  const getData = localStorage.getItem("appList");
+  if (getData) {
+    const parseData = JSON.parse(getData);
+    return parseData;
+  } else {
+    return [];
+  }
+};
 
 export default function DetailsCard() {
   const [isInstalled, setIsInstalled] = useState(false);
+  const [addToLs, setAddToLs] = useState(getDataFromLs());
+  useEffect(() => {
+    localStorage.setItem("appList", JSON.stringify(addToLs));
+  }, [addToLs]);
+
   const { id } = useParams();
   const { appData } = useData();
   if (!appData.data) {
@@ -13,9 +28,17 @@ export default function DetailsCard() {
   }
 
   const appDetail = appData.data.find((app) => app.id === Number(id));
-  const handleClick = () => {
-    toast("App installed!");
+  const handleClick = (data) => {
     setIsInstalled(true);
+
+    const isAdded = addToLs.find((app) => app.id == data.id);
+    if (isAdded) {
+      toast("❌ Already Exist");
+      return;
+    } else {
+      toast("✔️ Installing...");
+      setAddToLs([...addToLs, data]);
+    }
   };
 
   return (
@@ -51,15 +74,14 @@ export default function DetailsCard() {
             </div>
           </div>
           <button
-            onClick={() => handleClick()}
+            onClick={() => handleClick(appDetail)}
             disabled={isInstalled}
             className="bg-blue-400 px-4 py-2 rounded font-semibold"
             type="button"
           >
             {isInstalled ? "Installed" : ` Install now (${appDetail.size}MB)`}
-
-            <ToastContainer />
           </button>
+          <ToastContainer />
         </div>
       </div>
 

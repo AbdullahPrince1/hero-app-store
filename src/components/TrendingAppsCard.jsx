@@ -1,5 +1,5 @@
 export default function TrendingAppsCard({ app }) {
-  console.log(app);
+  
   return (
     <>
       <div className="p-4 bg-gray-100">
