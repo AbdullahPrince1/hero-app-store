@@ -3,6 +3,7 @@ import { useData } from "../hooks/useData";
 import { Bar, BarChart, ResponsiveContainer, XAxis, YAxis } from "recharts";
 import { useEffect, useState } from "react";
 import Swal from "sweetalert2";
+import AppNotFoundErr from "./AppNotFoundErr";
 
 const getDataFromLs = () => {
   const getData = localStorage.getItem("appList");
@@ -13,24 +14,23 @@ const getDataFromLs = () => {
     return [];
   }
 };
-
 export default function DetailsCard() {
   const [isInstalled, setIsInstalled] = useState(false);
   const [addToLs, setAddToLs] = useState(getDataFromLs());
   useEffect(() => {
     localStorage.setItem("appList", JSON.stringify(addToLs));
   }, [addToLs]);
-
   const { id } = useParams();
   const { appData } = useData();
   if (!appData.data) {
     return <h1>Loading....</h1>;
   }
-
   const appDetail = appData.data.find((app) => app.id === Number(id));
+  if (!appDetail) {
+    return <AppNotFoundErr />;
+  }
   const handleClick = (data) => {
     setIsInstalled(true);
-
     const isAdded = addToLs.find((app) => app.id == data.id);
     if (isAdded) {
       Swal.fire({
@@ -48,7 +48,6 @@ export default function DetailsCard() {
       setAddToLs([...addToLs, data]);
     }
   };
-
   return (
     <>
       <section className="max-w-7xl mx-auto mb-20 ">
@@ -100,7 +99,6 @@ export default function DetailsCard() {
             </button>
           </div>
         </div>
-
         <div className="p-3">
           <h2 className="font-semibold text-2xl text-[#001931] mb-6">
             Ratings
@@ -121,7 +119,6 @@ export default function DetailsCard() {
             </ResponsiveContainer>
           </div>
         </div>
-
         <div className="mt-6 p-3">
           <h1 className="text-[#001931] font-semibold mb-4 text-2xl">
             Description
