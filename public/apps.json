@@ -1,6 +1,6 @@
 [
   {
-    "image": "https://play-lh.googleusercontent.com/plDBa2_T3j3Sqd5I0R0-A22zTGR8p--_3t0qjHjgM9hrS5-w4sY-h_pe7w-U--b4DqM",
+    "image": "../demo-app (1).webp",
     "title": "Nova Launcher",
     "companyName": "TeslaCoil Apps",
     "id": 1,
@@ -18,7 +18,7 @@
     ]
   },
   {
-    "image": "https://play-lh.googleusercontent.com/39gN-2m5t637v9T4s7u5j3Iu_H3-2N-2_RdP0-iIuun6_s2cCFjBwFVnE83a-k-y7_lB",
+    "image": "../demo-app (2).webp",
     "title": "Sync Pro for Reddit",
     "companyName": "Relay for Reddit",
     "id": 2,
@@ -36,7 +36,7 @@
     ]
   },
   {
-    "image": "https://play-lh.googleusercontent.com/h5T2n82uEyn2wc6u-362y4htwQ4d-58xVe9kI9-1_y0f0o3tSFTJYw2aQ-w-2u2jwrY",
+    "image": "../demo-app (3).webp",
     "title": "Pocket Casts",
     "companyName": "Automattic",
     "id": 3,
@@ -54,7 +54,7 @@
     ]
   },
   {
-    "image": "https://play-lh.googleusercontent.com/7p-hP-YUG2EmOkM9m-Cx5DFlw-llh-I4t-O-lJp_gYKb-9lE5n-pI57-m-2Vb-4yEaQ",
+    "image": "../demo-app (4).webp",
     "title": "Solid Explorer",
     "companyName": "NeatBytes",
     "id": 4,
@@ -72,7 +72,7 @@
     ]
   },
   {
-    "image": "https://tasker.joaoapps.com/tasker_logo_white.png",
+    "image": "../demo-app (5).webp",
     "title": "Tasker",
     "companyName": "joaomgcd",
     "id": 5,
@@ -90,7 +90,7 @@
     ]
   },
   {
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2016/10/weather-timeline.png",
+    "image": "../demo-app (6).webp",
     "title": "Weather Timeline",
     "companyName": "Sam Ruston",
     "id": 6,
@@ -108,7 +108,7 @@
     ]
   },
   {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Google_Keep_icon_%282020%29.svg/512px-Google_Keep_icon_%282020%29.svg.png",
+    "image": "../google-keep.png",
     "title": "Google Keep",
     "companyName": "Google LLC",
     "id": 7,
@@ -126,7 +126,7 @@
     ]
   },
   {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Canva_icon_2021.svg/512px-Canva_icon_2021.svg.png",
+    "image": "../palette.png",
     "title": "Canva",
     "companyName": "Canva",
     "id": 8,
@@ -144,7 +144,7 @@
     ]
   },
   {
-    "image": "https://seeklogo.com/images/S/strava-logo-C4A1127B31-seeklogo.com.png",
+    "image": "../demo-app (1).webp",
     "title": "Strava",
     "companyName": "Strava Inc.",
     "id": 9,
@@ -162,7 +162,7 @@
     ]
   },
   {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Bitwarden_Logo.svg/512px-Bitwarden_Logo.svg.png",
+    "image": "../demo-app (3).webp",
     "title": "Bitwarden",
     "companyName": "Bitwarden Inc.",
     "id": 10,
@@ -180,7 +180,7 @@
     ]
   },
   {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Signal-Logo.svg/512px-Signal-Logo.svg.png",
+    "image": "../demo-app (5).webp",
     "title": "Signal",
     "companyName": "Signal Foundation",
     "id": 11,
@@ -198,7 +198,7 @@
     ]
   },
   {
-    "image": "https://play-lh.googleusercontent.com/s6nDAWRqg4MODunxOdJ1H-A0a-s-x-b-l-s-1z-2-4y-7-8j-6_c-3-5s-9-0",
+    "image": "../demo-app (2).webp",
     "title": "InShot",
     "companyName": "InShot Inc.",
     "id": 12,
@@ -216,7 +216,7 @@
     ]
   },
   {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Duolingo_logo.svg/600px-Duolingo_logo.svg.png",
+    "image": "../demo-app (4).webp",
     "title": "Duolingo",
     "companyName": "Duolingo",
     "id": 13,
@@ -252,7 +252,7 @@
     ]
   },
   {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/VLC_Icon.svg/512px-VLC_Icon.svg.png",
+    "image": "../demo-app (6).webp",
     "title": "VLC for Android",
     "companyName": "Videolabs",
     "id": 15,
@@ -270,7 +270,7 @@
     ]
   },
   {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Shazam_icon.svg/512px-Shazam_icon.svg.png",
+    "image": "../shazam.png",
     "title": "Shazam",
     "companyName": "Apple Inc.",
     "id": 16,
@@ -288,7 +288,7 @@
     ]
   },
   {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Picsart_Logo.svg/512px-Picsart_Logo.svg.png",
+    "image": "../letter-p.png",
     "title": "Picsart",
     "companyName": "PicsArt, Inc.",
     "id": 17,
@@ -306,7 +306,7 @@
     ]
   },
   {
-    "image": "https://logowik.com/content/uploads/images/zenly-app4921.jpg",
+    "image": "../zen.png",
     "title": "Zenly",
     "companyName": "Zenly",
     "id": 18,
@@ -324,7 +324,7 @@
     ]
   },
   {
-    "image": "https://cdn-assets.alltrails.com/assets/apple-touch-icon-180x180-1-1692131229.png",
+    "image": "../signboard.png",
     "title": "AllTrails",
     "companyName": "AllTrails, LLC",
     "id": 19,
@@ -342,7 +342,7 @@
     ]
   },
   {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Musixmatch_logo.svg/512px-Musixmatch_logo.svg.png",
+    "image": "../music.png",
     "title": "Musixmatch",
     "companyName": "Musixmatch",
     "id": 20,
@@ -375,114 +375,6 @@
       { "name": "3 star", "count": 400000 },
       { "name": "4 star", "count": 800000 },
       { "name": "5 star", "count": 2700000 }
-    ]
-  },
-  {
-    "image": "https://play-lh.googleusercontent.com/6Xy15s_YlKwnx6n-G-7-T-d-c-s-3a-2s-1b-5-8g-7-9-6-y-4-3-1z-2",
-    "title": "Sleep Cycle",
-    "companyName": "Sleep Cycle AB",
-    "id": 22,
-    "description": "Relax, sleep better, and wake up feeling rested with Sleep Cycle, the smart alarm clock and sleep tracker. The app analyzes your sleep patterns by monitoring your sounds and movements during the night. It then wakes you up during your lightest sleep phase within a customized 30-minute window, which helps you feel refreshed and energized instead of groggy. Track your sleep from bedtime to morning and get a detailed analysis of your sleep quality, including statistics on deep sleep, time in bed, and trends over time. The app also features a library of sleep sounds, stories, and relaxation guides to help you fall asleep faster. Its smart alarm clock function is designed to make your mornings easier. By understanding your sleep cycles, the app provides valuable insights to help you improve your sleep habits and overall well-being over the long term.",
-    "size": 98,
-    "reviews": 550000,
-    "ratingAvg": 4.5,
-    "downloads": 10,
-    "ratings": [
-      { "name": "1 star", "count": 25000 },
-      { "name": "2 star", "count": 15000 },
-      { "name": "3 star", "count": 40000 },
-      { "name": "4 star", "count": 110000 },
-      { "name": "5 star", "count": 360000 }
-    ]
-  },
-  {
-    "image": "https://play-lh.googleusercontent.com/yFIIiY9gO95yL04t-i_TJCk8V3RDUJqfDb-E-3k-C-s-l-1z-3r-5-8t-2-4g",
-    "title": "Moon+ Reader",
-    "companyName": "Moon+",
-    "id": 23,
-    "description": "Moon+ Reader is a professionally designed book reader with powerful controls and full functions. It supports a wide range of ebook formats, including EPUB, PDF, MOBI, CHM, CBR, CBZ, and more. The app offers a highly customizable reading experience with over 10 embedded themes, day and night mode switcher, and various visual options like line space, font scale, and justification alignment. Enjoy a smooth, realistic page-turning effect or customize it to your liking. The app includes intelligent paragraph indentation, trimming of unwanted white spaces, and support for syncing reading positions via Dropbox. It also features a 'Keep your eyes health' option for long reading sessions and highlights, annotations, and dictionary support. With its comprehensive feature set and extensive format compatibility, Moon+ Reader is the perfect application for any avid reader looking for a powerful and personalized reading experience on their device.",
-    "size": 29,
-    "reviews": 430000,
-    "ratingAvg": 4.6,
-    "downloads": 10,
-    "ratings": [
-      { "name": "1 star", "count": 12000 },
-      { "name": "2 star", "count": 8000 },
-      { "name": "3 star", "count": 20000 },
-      { "name": "4 star", "count": 80000 },
-      { "name": "5 star", "count": 310000 }
-    ]
-  },
-  {
-    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/8/87/Calm_logo.png/440px-Calm_logo.png",
-    "title": "Calm",
-    "companyName": "Calm.com, Inc.",
-    "id": 24,
-    "description": "Calm is the #1 app for sleep, meditation, and relaxation. Discover a happier, healthier you through our guided meditations, Sleep Stories, breathing programs, masterclasses, and relaxing music. Recommended by top psychologists, therapists, and mental health experts, Calm is the perfect mindfulness app for beginners, but also includes hundreds of programs for intermediate and advanced users. Guided meditation sessions are available in lengths of 3, 5, 10, 15, 20 or 25 minutes so you can choose the perfect length to fit with your schedule. Topics include calming anxiety, managing stress, deep sleep, focus, and concentration. The app also features Sleep Stories, which are soothing tales read by well-known voices to help you drift off to sleep. Whether you need to reduce stress, get better rest, or improve your focus, Calm provides the tools to help you find your inner peace.",
-    "size": 85,
-    "reviews": 1100000,
-    "ratingAvg": 4.3,
-    "downloads": 50,
-    "ratings": [
-      { "name": "1 star", "count": 70000 },
-      { "name": "2 star", "count": 40000 },
-      { "name": "3 star", "count": 90000 },
-      { "name": "4 star", "count": 200000 },
-      { "name": "5 star", "count": 700000 }
-    ]
-  },
-  {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/1Password_Icon.svg/512px-1Password_Icon.svg.png",
-    "title": "1Password",
-    "companyName": "AgileBits",
-    "id": 25,
-    "description": "1Password is the password manager that remembers all your passwords for you and keeps them safe and secure behind the one password that only you know. It's a beautiful, simple, and secure way to manage your digital life. With 1Password, you only ever need to memorize one password. All your other passwords and important information are protected by your Master Password, which encrypts your data using authenticated AES-256 encryption. The app can generate strong, unique passwords for all your online accounts, significantly improving your security. It seamlessly integrates with your browser and apps, automatically filling in your credentials for you. Beyond just passwords, you can store credit card details, secure notes, software licenses, and more. With cross-device sync, your information is always available when and where you need it. 1Password is the key to your secure and convenient digital life.",
-    "size": 105,
-    "reviews": 95000,
-    "ratingAvg": 3.9,
-    "downloads": 5,
-    "ratings": [
-      { "name": "1 star", "count": 11000 },
-      { "name": "2 star", "count": 5000 },
-      { "name": "3 star", "count": 12000 },
-      { "name": "4 star", "count": 22000 },
-      { "name": "5 star", "count": 45000 }
-    ]
-  },
-  {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Trello-logo-blue.svg/512px-Trello-logo-blue.svg.png",
-    "title": "Trello",
-    "companyName": "Atlassian",
-    "id": 26,
-    "description": "Trello is a flexible and visual tool that empowers you and your team to manage any type of project, workflow, or task tracking. Its intuitive system of boards, lists, and cards allows you to organize and prioritize your projects in a fun and rewarding way. A board typically represents a project, while lists represent stages in a workflow (like 'To Do', 'In Progress', 'Done'). Cards, which represent individual tasks, can be moved between lists as they progress. You can add files, checklists, due dates, comments, and labels to cards to keep all relevant information in one place. Invite your team to collaborate, assign tasks, and stay updated on progress with real-time notifications. Whether you're planning a vacation, managing a software development sprint, or organizing a team event, Trello's simple yet powerful interface makes it easy to see who's doing what and what needs to get done.",
-    "size": 20,
-    "reviews": 150000,
-    "ratingAvg": 4.5,
-    "downloads": 10,
-    "ratings": [
-      { "name": "1 star", "count": 6000 },
-      { "name": "2 star", "count": 3000 },
-      { "name": "3 star", "count": 9000 },
-      { "name": "4 star", "count": 32000 },
-      { "name": "5 star", "count": 100000 }
-    ]
-  },
-  {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Snapseed_icon_2020.svg/512px-Snapseed_icon_2020.svg.png",
-    "title": "Snapseed",
-    "companyName": "Google LLC",
-    "id": 27,
-    "description": "Snapseed is a complete and professional photo editor developed by Google that brings the power of desktop editing software to your mobile device. It features a comprehensive set of 29 tools and filters, including Healing, Brush, Structure, HDR, and Perspective correction. The app supports non-destructive editing, allowing you to re-adjust your edits at any time. Its intuitive interface uses simple gestures to control powerful tools, such as selective adjustments to enhance specific parts of your photo. You can fine-tune your images with precision, adjusting everything from brightness and contrast to warmth and saturation. Snapseed also opens RAW DNG files, giving professional photographers more flexibility. Save your favorite combinations of edits as 'Looks' to apply them to future photos with a single tap. For anyone serious about mobile photography, Snapseed offers an incredible range of control and quality, all for free.",
-    "size": 33,
-    "reviews": 1900000,
-    "ratingAvg": 4.4,
-    "downloads": 100,
-    "ratings": [
-      { "name": "1 star", "count": 90000 },
-      { "name": "2 star", "count": 50000 },
-      { "name": "3 star", "count": 130000 },
-      { "name": "4 star", "count": 330000 },
-      { "name": "5 star", "count": 1300000 }
     ]
   }
 ]

@@ -14,8 +14,8 @@ export default function Apps() {
   );
   return (
     <>
-      <div className="mt-20 max-w-7xl mx-auto">
-        <div className="text-center mb-10">
+      <div className="my-20 max-w-7xl mx-auto">
+        <div className="text-center mb-10 p-3">
           <h1 className="font-bold text-5xl text-[#001931]">
             Our All Applications
           </h1>
@@ -23,18 +23,18 @@ export default function Apps() {
             Explore All Apps on the Market developed by us. We code for Millions
           </p>
         </div>
-        <div className="flex items-center justify-between mb-6">
-          <h2 className="font-semibold text-2xl">
-            ({searchData.length})Apps Found
+        <div className="flex items-center justify-between mb-6 p-3">
+          <h2 className="font-semibold sm:text-2xl">
+            {searchData.length} Apps Found
           </h2>
           <input
             type="search"
             onChange={(e) => setSearch(e.target.value)}
-            className="bg-gray-100 rounded w-80 p-2 text-black focus:outline-none"
+            className="bg-gray-100 rounded sm:w-70 p-2 text-black focus:outline-none"
             placeholder="Search Apps"
           />
         </div>
-        <div className="grid grid-cols-4 gap-6 ">
+        <div className="grid grid-cols-2 sm:grid-cols-4 gap-6 p-3">
           {searchData.map((app) => (
             <AllAppsCard key={app.id} app={app}></AllAppsCard>
           ))}

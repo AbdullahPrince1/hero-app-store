@@ -4,10 +4,12 @@ import Apps from "../pages/Apps";
 import Installation from "../pages/Installation";
 import Home from "../pages/Home";
 import DetailsCard from "../components/DetailsCard";
+import ErrorPage from "../components/ErrorPage";
 
 export const router = createBrowserRouter([
   {
     path: "/",
+    errorElement: <ErrorPage/>,
     Component: Root,
     children: [
       {

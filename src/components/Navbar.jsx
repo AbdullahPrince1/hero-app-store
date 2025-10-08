@@ -4,8 +4,8 @@ import { MdInstallDesktop } from "react-icons/md";
 export default function Navbar() {
   return (
     <>
-      <header>
-        <nav className="flex justify-between items-center text-black">
+      <header className=" bg-white">
+        <nav className="flex justify-between items-center text-black max-w-7xl mx-auto p-5">
           <Link to="/" className="flex items-center ">
             <figure>
               <img src="/logo.png" alt="logo" className="h-10" />
@@ -13,7 +13,7 @@ export default function Navbar() {
             <span className="font-bold">HERO.IO</span>
           </Link>
 
-          <div className="flex items-center gap-8">
+          <div className="sm:flex items-center gap-8 hidden">
             <NavLink
               to="/"
               className={({ isActive }) =>
@@ -49,7 +49,7 @@ export default function Navbar() {
 
           <Link
             to="https://github.com/AbdullahPrince1"
-            className="flex items-center font-semibold gap-2.5 bg-purple-400 px-4 py-2 rounded"
+            className="flex items-center font-semibold gap-2.5 seeBtn px-4 py-2 rounded"
           >
             <FaGithub />
             <span>Contribute</span>

@@ -1,9 +1,26 @@
 import { useEffect, useState } from "react";
 import InstalledAppCard from "../components/InstalledAppCard";
-import { toast } from "react-toastify";
+import Swal from "sweetalert2";
 
 export default function Installation() {
   const [deleteApp, setDeleteApp] = useState([]);
+  const [sort, setSort] = useState("");
+
+  const handleSort = (sortType) => {
+    setSort(sortType);
+    if (sortType === "high") {
+      const sortedHigh = [...deleteApp].sort(
+        (a, b) => b.downloads - a.downloads
+      );
+      setDeleteApp(sortedHigh);
+    }
+    if (sortType === "low") {
+      const sortedHigh = [...deleteApp].sort(
+        (a, b) => a.downloads - b.downloads
+      );
+      setDeleteApp(sortedHigh);
+    }
+  };
 
   useEffect(() => {
     const localData = JSON.parse(localStorage.getItem("appList"));
@@ -13,8 +30,12 @@ export default function Installation() {
   const handleDelete = (id) => {
     const deleteItem = deleteApp.filter((item) => item.id !== id);
     localStorage.setItem("appList", JSON.stringify(deleteItem));
+    Swal.fire({
+      title: "Uninstall Successful.!",
+      icon: "success",
+      draggable: true,
+    });
     setDeleteApp(deleteItem);
-    toast("Uninstall Successful");
   };
 
   if (deleteApp == null) {
@@ -23,7 +44,7 @@ export default function Installation() {
   return (
     <>
       <div className="mt-20 max-w-7xl mx-auto">
-        <div className="text-center mb-10">
+        <div className="text-center mb-10 p-3">
           <h1 className="font-bold text-5xl text-[#001931]">
             Your Installed Apps
           </h1>
@@ -31,23 +52,22 @@ export default function Installation() {
             Explore All Apps on the Market developed by us.
           </p>
         </div>
-        <div className="flex items-center justify-between mb-6">
+        <div className="flex p-3 items-center justify-between mb-6">
           <h2 className="font-semibold text-2xl">
             {deleteApp.length} Apps Found
           </h2>
           <select
-            defaultValue="Short By Download"
-            className=" p-2 border rounded "
+            defaultValue="Sort by"
+            onChange={(e) => handleSort(e.target.value)}
+            className="p-2 border rounded border-gray-200"
           >
-            <option disabled={true} value="">
-              Short By Download
-            </option>
-            <option value="">High to Low</option>
-            <option value="">Low to High</option>
+            <option disabled={true}>Sort by</option>
+            <option value="high">High to Low</option>
+            <option value="low">Low to High</option>
           </select>
         </div>
 
-        <div className="space-y-4 mb-20">
+        <div className="space-y-4 mb-20 p-3">
           {deleteApp.map((data) => (
             <InstalledAppCard
               key={data.id}

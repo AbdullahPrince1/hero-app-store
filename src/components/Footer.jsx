@@ -47,8 +47,8 @@ export default function Footer() {
         </nav>
         <aside>
           <p>
-            Copyright © {new Date().getFullYear()} - All right reserved by ACME
-            Industries Ltd
+            Copyright © {new Date().getFullYear()} - All right reserved by{" "}
+            <span className="font-bold">HERO.IO</span>
           </p>
         </aside>
       </footer>

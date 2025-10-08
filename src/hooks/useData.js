@@ -7,7 +7,7 @@ export const useData = () => {
 
   useEffect(() => {
     axios
-      .get("/apps.json")
+      .get("../apps.json")
       .then((response) => setAppData(response))
       .catch((err) => setError(err));
   }, []);

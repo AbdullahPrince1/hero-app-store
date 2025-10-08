@@ -1,11 +1,11 @@
 export default function SummeryReview() {
   return (
     <>
-      <div className="bg-blue-300 flex flex-col items-center gap-10 p-20">
+      <div className="bg flex flex-col items-center gap-10 p-20 text-white">
         <h1 className="text-center font-bold text-4xl">
           Trusted by Millions, Built for You
         </h1>
-        <div className="flex items-center gap-6">
+        <div className="flex-col sm:flex-row flex items-center gap-6">
           <div className="flex items-center flex-col px-10 py-5">
             <h4>Total Downloads</h4>
             <h1 className="font-extrabold text-6xl my-2">23.7M</h1>
