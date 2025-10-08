@@ -1,7 +1,3 @@
-
-
 export default function Installation() {
-  return (
-    <div>Installation</div>
-  )
+  return <div>Installation</div>;
 }
