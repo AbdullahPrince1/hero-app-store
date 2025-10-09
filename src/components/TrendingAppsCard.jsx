@@ -7,8 +7,8 @@ export default function TrendingAppsCard({ app }) {
     <>
       <Link to={`/details/${app.id}`}>
         <div className="p-4 bg-white">
-          <figure className="rounded-lg flex justify-center items-center flex-col bg-gray-100 p-2 h-50">
-            <img className="h-40" src={app.image} alt="" />
+          <figure className="rounded-lg flex justify-center items-center flex-col bg-gray-100 p-2 sm:h-50 ">
+            <img className="sm:h-40 h-25" src={app.image} alt="" />
           </figure>
           <div>
             <h2 className="font-medium text-xl text-[#001931] mt-4">

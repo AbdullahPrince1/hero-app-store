@@ -7,8 +7,8 @@ export default function AllAppsCard({ app }) {
     <>
       <Link to={`/details/${app.id}`}>
         <div className="p-4 bg-white rounded ">
-          <figure className="rounded-lg flex justify-center items-center flex-col bg-gray-100 p-2 h-50">
-            <img className="h-40" src={app.image} alt={app.title} />
+          <figure className="rounded-lg flex justify-center items-center flex-col bg-gray-100 p-2 sm:h-50">
+            <img className="h-25 sm:h-40" src={app.image} alt={app.title} />
           </figure>
           <div>
             <h2 className="font-medium text-xl text-[#001931] mt-4">

@@ -4,7 +4,7 @@ export default function Banner() {
   return (
     <>
       <div className="flex flex-col items-center mt-20 px-3">
-        <div className="text-center">
+        <div className="text-center p-3">
           <h1 className="font-semibold text-[#001931] text-7xl">
             We Build <br />{" "}
             <span className="font-bold text-blue-600">Productive </span>Apps
@@ -20,7 +20,7 @@ export default function Banner() {
             className="flex items-center gap-2 border border-[#D2D2D2] px-5 py-2 rounded"
             to="https://play.google.com/store/games?hl=en"
           >
-            <img className="h-8" src="../google-play.png" alt="google play" />
+            <img className="h-8" src="/google-play.png" alt="google play" />
             <h3 className="font-semibold text-xl text-[#001931]">
               Google Play
             </h3>
@@ -29,12 +29,12 @@ export default function Banner() {
             className="flex items-center gap-2 border border-[#D2D2D2] px-5 py-2 rounded"
             to="https://www.apple.com/app-store/"
           >
-            <img className="h-8" src="../app-store.png" alt="app store" />
+            <img className="h-8" src="/app-store.png" alt="app store" />
             <h3 className="font-semibold text-xl text-[#001931]">App Store</h3>
           </Link>
         </div>
         <figure>
-          <img src="../hero.png" alt="" />
+          <img src="/hero.png" alt="" />
         </figure>
       </div>
     </>

@@ -7,7 +7,7 @@ export default function AppNotFoundErr() {
         <figure>
           <img
             className="h-[100vh] w-fit object-cover px-20 pb-20 pt-10"
-            src="../App-Error.png"
+            src="/App-Error.png"
             alt="Error Page"
             sn
           />

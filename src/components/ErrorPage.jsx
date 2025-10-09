@@ -7,7 +7,7 @@ export default function ErrorPage() {
         <figure>
           <img
             className="h-[100vh] w-fit object-cover px-20 pb-20 pt-10"
-            src="../error-404.png"
+            src="/error-404.png"
             alt="Error Page"
             sn
           />

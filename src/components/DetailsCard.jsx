@@ -68,21 +68,21 @@ export default function DetailsCard() {
             <div className="border-b border-b-gray-300"></div>
             <div className="mt-7 flex items-center gap-8">
               <div className="flex flex-col items-center">
-                <img src="../icon-downloads.png" alt="" />
+                <img src="/icon-downloads.png" alt="" />
                 <p className="sm:block hidden">Downloads</p>
                 <span className="font-bold text-lg sm:text-3xl">
                   {appDetail.downloads}M
                 </span>
               </div>
               <div className="flex flex-col items-center">
-                <img src="../icon-ratings.png" alt="" />
+                <img src="/icon-ratings.png" alt="" />
                 <p className="sm:block hidden">Average Ratings</p>
                 <span className="font-bold text-lg sm:text-3xl">
                   {appDetail.ratingAvg}M
                 </span>
               </div>
               <div className="flex flex-col items-center ">
-                <img src="../icon-review.png" alt="" />
+                <img src="/icon-review.png" alt="" />
                 <p className="sm:block hidden">Total Reviews</p>
                 <span className="font-bold text-lg sm:text-3xl">
                   {appDetail.reviews}K
